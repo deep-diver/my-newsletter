@@ -1,5 +1,5 @@
 general:
-  github_repo_url: "https://github.com/codingpot/newsletter_awesome_articles"
+  github_repo_url: "https://github.com/deep-diver/my-newsletter"
   git_branch: "main"
 
 email:
