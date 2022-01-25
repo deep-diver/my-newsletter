@@ -3,16 +3,15 @@ general:
   git_branch: "main"
 
 email:
-  title: "email title"
-  footer_title: "email footer title"
+  title: "나만의 뉴스레터"
+  footer_title: "나만의 뉴스레터"
   receivers:
-    - receiver1
-    - receiver2
-  header_title: "newsletter name"
-  header_description: "have a good read!"
-  header_image_url: "https://..."
-  community_link: "https://..."
-  community_link_btn_title: "title of the link to your community"
-  section_title: "what information does this newsletter deliver?"
-  content_link_btn_title: "title of the buttn to show in each content"
-  bgcolor: "orange"
+    - "deep.diver.csp@gmail.com"
+  header_title: "내가 흥미롭게 읽은 글"
+  header_description: "잘 정리 해보자"
+  header_image_url: "https://github.com/deep-diver/my-newsletter/blob/main/assets/banner.png?raw=true"
+  community_link: "https://github.com/deep-diver"
+  community_link_btn_title: "내 깃헙 계정 링크"
+  section_title: "내가 흥미롭게 읽은 책, 블로그 내용을 간단히 정리한다"
+  content_link_btn_title: "원문이나 도서 정보 링크"
+  bgcolor: "#F0FFFF"
